@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "999932937990",
+    "firebase_url": "https://fir-expresso.firebaseio.com",
+    "project_id": "fir-expresso",
+    "storage_bucket": "fir-expresso.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999932937990:android:22a3c9e7e48ba5989c4087",
+        "android_client_info": {
+          "package_name": "net.kathir.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999932937990-kqlc2nk7r9oclde6q2447s0pb8v2mssg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP-ryaYYfyi10AEOS-_1AYASafZkcT4BE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999932937990-kqlc2nk7r9oclde6q2447s0pb8v2mssg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
